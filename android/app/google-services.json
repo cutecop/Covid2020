@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880681527131",
+    "firebase_url": "https://covid-19-54abc.firebaseio.com",
+    "project_id": "covid-19-54abc",
+    "storage_bucket": "covid-19-54abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880681527131:android:b607f10ea512e40f2c5c7e",
+        "android_client_info": {
+          "package_name": "com.ssdy.sliclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880681527131-ka5593m5vd90mtv3ebt4g5e4presg6vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFK7juk4qAKFaGURLKgkgg_QHS6yBruYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880681527131-ka5593m5vd90mtv3ebt4g5e4presg6vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
